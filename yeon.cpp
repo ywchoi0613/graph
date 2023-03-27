@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-const float pi = 3.1415926535897932384626433832795028841971693993751058209;
+const float pi = 3.141592;
 int main() {
 	ofstream woo("cos.txt");
 	float t, dt, T;
